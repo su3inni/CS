@@ -1,6 +1,6 @@
 # CS 
 ## Network 
-+ [전반적인 네트워크](https://github.com/su3inni/cs-study/issues/19)
++ [네트워크 기본개념](https://github.com/su3inni/cs-study/issues/19)
 + [네트워크 아키텍처와 프로그래밍 방법](https://github.com/su3inni/cs-study/issues/11)
 + [OSI 7 Layers](https://github.com/su3inni/cs-study/issues/4)
 + [Cloud Network](https://github.com/su3inni/cs-study/issues/5)
