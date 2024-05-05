@@ -23,7 +23,7 @@
 
 ## OS 
 + [Cache](https://github.com/su3inni/cs-study/issues/6)
-
++ [Synchronization 방법의 비교 : SpinLock, Mutex, Semaphore ](https://github.com/su3inni/cs-study/issues/22)
 ## ETC  
 + [Micro Service](https://github.com/su3inni/cs-study/issues/1)
 + [Container](https://github.com/su3inni/cs-study/issues/9)
