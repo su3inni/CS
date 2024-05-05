@@ -3,6 +3,7 @@
 + [네트워크 기본개념](https://github.com/su3inni/cs-study/issues/19)
 + [네트워크 아키텍처와 프로그래밍 방법](https://github.com/su3inni/cs-study/issues/11)
 + [OSI 7 Layers](https://github.com/su3inni/cs-study/issues/4)
+  + [ TCP/IP 와 TCP IP 용어 정의 ](https://github.com/su3inni/cs-study/issues/21)
 + [Cloud Network](https://github.com/su3inni/cs-study/issues/5)
 
 ## Database 
